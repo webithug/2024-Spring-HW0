@@ -7,7 +7,7 @@ Please provide your MetaMask wallet address: 0x73c7a995fb3570Ca3139d4DbB847cC2d2
 
 ## Local Testing
 Please provide a screenshot of the `forge test -vvv` command running in your local environment.
-![logs](https://drive.google.com/file/d/1caGZmmbM70K5FdFcJdugxk7bnM8PjQoK/view?usp=share_link)
+![logs](https://github.com/webithug/intro_cp_course/assets/67690687/04b0514c-78ed-4fde-b5da-8f270e9b8b80)
 
 ## Contract Address
 Please provide the contract address that you deployed on the Sepolia network.
@@ -15,4 +15,5 @@ Please provide the contract address that you deployed on the Sepolia network.
 
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
-![etherscan screenshot](https://drive.google.com/file/d/1DBCM5-qFeCT5sZYnhV3oar94Y3hyT9Bu/view?usp=share_link)
+![etherscan screenshot](https://github.com/webithug/intro_cp_course/assets/67690687/c17abe5b-0673-4041-a219-7db8070845f8)
+
